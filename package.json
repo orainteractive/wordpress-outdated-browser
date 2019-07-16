@@ -1,0 +1,27 @@
+{
+  "name": "wordpress-outdated-browser",
+  "version": "1.0.0",
+  "description": "Detect your browser version, if it is outdated advises users to upgrade their browser.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmillerOI/wordpress-outdated-browser.git"
+  },
+  "keywords": [
+    "wordpress",
+    "outdated",
+    "browser",
+    "internet explorer",
+    "ie",
+    "edge",
+    "outdated browser"
+  ],
+  "author": "Julian Maison-Guillard (Julian Miller)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmillerOI/wordpress-outdated-browser/issues"
+  },
+  "homepage": "https://github.com/jmillerOI/wordpress-outdated-browser#readme"
+}
