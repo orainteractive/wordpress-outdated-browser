@@ -1,0 +1,13 @@
+{
+    "name": "jmilleroi/wordpress-outdated-browser",
+    "description": "Detect your browser version, if it is outdated advises users to upgrade their browser.",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Julian Miller",
+            "email": "jdavmiller90@gmail.com"
+        }
+    ],
+    "require": {}
+}
