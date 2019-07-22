@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: WordPress Outdated Browser
-Plugin URI: https://github.com/jmillerOI/wordpress-outdated-browser
+Plugin URI: https://github.com/orainteractive/wordpress-outdated-browser
 Description: Detect your browser version, if it is outdated advises users to upgrade their browser.
 Version: 1.0
 Author: Julian Maison-Guillard (Julian Miller)
