@@ -3,6 +3,7 @@
     "description": "Detect your browser version, if it is outdated advises users to upgrade their browser.",
     "type": "wordpress-plugin",
     "license": "MIT",
+    "version": "1.0.0",
     "minimum-stability": "dev",
     "authors": [
         {
